@@ -25,7 +25,7 @@
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">2</td>
                                 <td class="p-3 border border-gray-200">AFFILIATION NO. (IF APPLICABLE)</td>
-                                <td class="p-3 border border-gray-200"></td>
+                                <td class="p-3 border border-gray-200">531262</td>
                             </tr>
                             <tr>
                                 <td class="p-3 border border-gray-200">3</td>
