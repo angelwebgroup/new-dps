@@ -112,6 +112,11 @@
                                 <td class="p-3 border border-gray-200">FEE STRUCTURE</td>
                                 <td class="p-3 border border-gray-200"><a href="fee-structure.php" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
                             </tr>
+                            <tr class="bg-gray-50">
+                                <td class="p-3 border border-gray-200">10</td>
+                                <td class="p-3 border border-gray-200">NO OBJECTION CERTIFICATE (NOC)</td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/noc%20of%20state%20govt.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
