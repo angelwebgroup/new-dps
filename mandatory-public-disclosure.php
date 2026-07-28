@@ -70,52 +70,52 @@
                             <tr>
                                 <td class="p-3 border border-gray-200">1</td>
                                 <td class="p-3 border border-gray-200">EXTENSION OF AFFILIATION</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/Affiliation%20copy%20New%20DPS%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/Affiliation%20copy%20New%20DPS%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">2</td>
                                 <td class="p-3 border border-gray-200">SMC</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/School%20Management%20Committee%20(SMC).pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/School%20Management%20Committee%20(SMC).pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr>
                                 <td class="p-3 border border-gray-200">3</td>
                                 <td class="p-3 border border-gray-200">RECOGNITIONS CERTIFICATE</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/Recognisation%20copy%20%20(hbse%20new%20DPS%202026).pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/Recognisation%20copy%20%20(hbse%20new%20DPS%202026).pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">4</td>
                                 <td class="p-3 border border-gray-200">PARENT TEACHER ASSOCIATION</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/Parent%20Teacher%20Association%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/Parent%20Teacher%20Association%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr>
                                 <td class="p-3 border border-gray-200">5</td>
                                 <td class="p-3 border border-gray-200">HEALTH AND HYGIENE CERTIFICATE</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/Health%20and%20hygiene%20noc%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/Health%20and%20hygiene%20noc%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">6</td>
                                 <td class="p-3 border border-gray-200">BUILDING SAFETY CERTIFICATE</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/building%20safety%20noc%202026-27.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/building%20safety%20noc%202026-27.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr>
                                 <td class="p-3 border border-gray-200">7</td>
                                 <td class="p-3 border border-gray-200">CERTIFICATE OF REGISTRATION SOCIETY</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/REGESTRATION%20OF%20SOCIETY.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/REGESTRATION%20OF%20SOCIETY.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">8</td>
                                 <td class="p-3 border border-gray-200">FIRE NOC</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/fire%20safety%20noc%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/fire%20safety%20noc%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr>
                                 <td class="p-3 border border-gray-200">9</td>
                                 <td class="p-3 border border-gray-200">FEE STRUCTURE</td>
-                                <td class="p-3 border border-gray-200"><a href="fee-structure.php" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="fee-structure.php" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">10</td>
                                 <td class="p-3 border border-gray-200">NO OBJECTION CERTIFICATE (NOC)</td>
-                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/noc%20of%20state%20govt.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/noc%20of%20state%20govt.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                         </tbody>
                     </table>
@@ -123,4 +123,17 @@
             </div>
         </div>
     </section>
+
+    <script>
+        function copyLink(btn) {
+            const link = btn.previousElementSibling.href;
+            navigator.clipboard.writeText(link).then(() => {
+                const icon = btn.querySelector('i');
+                icon.className = 'fas fa-check text-green-600';
+                setTimeout(() => {
+                    icon.className = 'far fa-copy';
+                }, 2000);
+            });
+        }
+    </script>
 <?php include ('includes/footer.php'); ?>
