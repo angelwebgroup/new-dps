@@ -107,6 +107,11 @@
                                 <td class="p-3 border border-gray-200">FIRE NOC</td>
                                 <td class="p-3 border border-gray-200"><a href="disclosure-docs/fire%20safety%20noc%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
                             </tr>
+                            <tr>
+                                <td class="p-3 border border-gray-200">9</td>
+                                <td class="p-3 border border-gray-200">FEE STRUCTURE</td>
+                                <td class="p-3 border border-gray-200"><a href="fee-structure.php" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a></td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
