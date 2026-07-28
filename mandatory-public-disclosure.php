@@ -35,7 +35,7 @@
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">4</td>
                                 <td class="p-3 border border-gray-200">COMPLETE ADDRESS WITH PIN CODE</td>
-                                <td class="p-3 border border-gray-200">DEEGHOT, HODAL, PALWAL, HARYANA</td>
+                                <td class="p-3 border border-gray-200">VPO-Deeghot, Tah-Hodal, Distt-Palwal, Haryana &ndash; 121106</td>
                             </tr>
                             <tr>
                                 <td class="p-3 border border-gray-200">5</td>
@@ -45,12 +45,12 @@
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">6</td>
                                 <td class="p-3 border border-gray-200">SCHOOL EMAIL ID</td>
-                                <td class="p-3 border border-gray-200"></td>
+                                <td class="p-3 border border-gray-200">ndpsdeeghotpalwal@gmail.com</td>
                             </tr>
                             <tr>
                                 <td class="p-3 border border-gray-200">7</td>
                                 <td class="p-3 border border-gray-200">CONTACT DETAILS (LANDLINE/MOBILE)</td>
-                                <td class="p-3 border border-gray-200"></td>
+                                <td class="p-3 border border-gray-200">+91 9813937336, +91 8053886194</td>
                             </tr>
                         </tbody>
                     </table>
