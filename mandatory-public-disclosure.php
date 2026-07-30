@@ -30,7 +30,7 @@
                             <tr>
                                 <td class="p-3 border border-gray-200">3</td>
                                 <td class="p-3 border border-gray-200">SCHOOL CODE (IF APPLICABLE)</td>
-                                <td class="p-3 border border-gray-200"></td>
+                                <td class="p-3 border border-gray-200">41243</td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">4</td>
@@ -40,7 +40,7 @@
                             <tr>
                                 <td class="p-3 border border-gray-200">5</td>
                                 <td class="p-3 border border-gray-200">PRINCIPAL NAME & QUALIFICATION</td>
-                                <td class="p-3 border border-gray-200"></td>
+                                <td class="p-3 border border-gray-200">Meena Arya (BA, MA, b.ed)</td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 border border-gray-200">6</td>
@@ -116,6 +116,16 @@
                                 <td class="p-3 border border-gray-200">10</td>
                                 <td class="p-3 border border-gray-200">NO OBJECTION CERTIFICATE (NOC)</td>
                                 <td class="p-3 border border-gray-200"><a href="disclosure-docs/noc%20of%20state%20govt.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
+                            </tr>
+                            <tr>
+                                <td class="p-3 border border-gray-200">11</td>
+                                <td class="p-3 border border-gray-200">ANNUAL ACADEMIC CALENDER</td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/ANNUAL%20CALENDER%202026-2027%20%20NEW%20DPS%20DEEGHOT.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
+                            </tr>
+                            <tr class="bg-gray-50">
+                                <td class="p-3 border border-gray-200">12</td>
+                                <td class="p-3 border border-gray-200">LAST 3-YEAR RESULT</td>
+                                <td class="p-3 border border-gray-200"><a href="disclosure-docs/RESULT%20LAST%203YEAR%202026.pdf" target="_blank" class="text-blue-600 hover:text-blue-800 font-bold">VIEW</a> <button onclick="copyLink(this)" class="ml-3 text-gray-500 hover:text-blue-600 transition-colors duration-200" title="Copy Link"><i class="far fa-copy"></i></button></td>
                             </tr>
                         </tbody>
                     </table>

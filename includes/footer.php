@@ -8,7 +8,7 @@
                     <ul class="space-y-2">
                         <li><a href="index.php" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Home</a></li>
                         <li><a href="about.php" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> About Us</a></li>
-                        <li><a href="#" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Academics</a></li>
+                        <li><a href="academics.php" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Academics</a></li>
                         <li><a href="admission.php" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Admission</a></li>
                         <li><a href="gallery.php" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Gallery</a></li>
                         <li><a href="contact-us.php" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Contact Us</a></li>
@@ -20,9 +20,6 @@
                     <ul class="space-y-2">
                         <li><a href="https://www.cbse.gov.in" target="_blank" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> CBSE Website</a></li>
                         <li><a href="https://ncert.nic.in" target="_blank" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> NCERT</a></li>
-                        <li><a href="#" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> School Calendar</a></li>
-                        <li><a href="#" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Syllabus</a></li>
-                        <li><a href="#" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> School Rules</a></li>
                         <li><a href="fee-structure.php" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Fee Structure</a></li>
                         <li><a href="mandatory-public-disclosure.php" class="hover:text-secondary transition duration-300"><i class="fas fa-chevron-right mr-2 text-secondary"></i> Mandatory Disclosure</a></li>
                     </ul>
